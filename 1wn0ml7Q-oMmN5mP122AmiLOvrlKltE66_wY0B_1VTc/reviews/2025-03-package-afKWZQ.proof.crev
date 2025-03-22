@@ -1,0 +1,24 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2025-03-22T20:36:33.842385+04:00
+from:
+  id-type: crev
+  id: 1wn0ml7Q-oMmN5mP122AmiLOvrlKltE66_wY0B_1VTc
+  url: https://github.com/boozook/crev-proofs.git
+package:
+  source: https://crates.io
+  name: playdate-color
+  version: 0.2.4
+  revision: 834bf3c04c8579b9971d9e1d8b3d09e185309b53
+  digest: AVR1KOgAu816mkGvpEW1rJkQrz9O5_01FKCSZO09oBU
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+comment: |-
+  I'm the author, and this crate is trivial
+----- SIGN CREV PROOF -----
+3oTO-K_uf5awzmOQwT5-S-qrNREzE9YJcVRA6MUCtYc05Ft5Kvn12yIm5ySORTWQKrpCeh3EY7ehkqJbZK9MAA
+----- END CREV PROOF -----
+
