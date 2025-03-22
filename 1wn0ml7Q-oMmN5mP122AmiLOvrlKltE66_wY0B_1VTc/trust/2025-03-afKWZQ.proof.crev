@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2025-03-22T19:55:51.157900+04:00
+from:
+  id-type: crev
+  id: 1wn0ml7Q-oMmN5mP122AmiLOvrlKltE66_wY0B_1VTc
+  url: https://github.com/boozook/crev-proofs.git
+ids:
+- id-type: crev
+  id: 1wn0ml7Q-oMmN5mP122AmiLOvrlKltE66_wY0B_1VTc
+  url: https://github.com/boozook/crev-proofs.git
+trust: medium
+comment: |-
+  I am moderately, with a fair amount of skepticism, trusting myself.
+----- SIGN CREV PROOF -----
+baTa5FSg7Y5-jVG71TuBlZWNottLggl_oapicl00EdsI3jd9g1Y-2StIsw3hVq6f5T0auOBzEa8muf51id0DCA
+----- END CREV PROOF -----
+
