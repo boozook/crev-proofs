@@ -15,7 +15,6 @@ aaronepower
 alexcrichton
 amanieu
 bluss
-boozook
 brendanzab
 burntsushi
 BurntSushi
